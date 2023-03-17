@@ -1,0 +1,26 @@
+.border-solid,table,tr,td,th{
+    border: solid;
+     box-shadow: 2px 2px 2px 2px #926d27 ;
+
+}
+
+.element {
+    font-size: 25px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+    margin: auto;
+    margin-top: 50px;
+    
+    
+}
+h1{
+    margin-top: 50px;
+}
+ul li{
+    font-size: 20px;
+    
+}
+ul li a{
+    color: white;
+}
